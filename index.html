@@ -3,14 +3,25 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Jamiu — Personal Page</title>
+    <title>Noibi Jamiu Gbolahan — OlaCloud</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
     <style>
       :root {
-        --bg: #0f1724;
-        --card: #0b1220;
-        --accent: #06b6d4;
-        --muted: #9aa4b2;
-        --text: #e6eef6;
+        --bg-1: #0f1724;
+        --bg-2: #08203a;
+        --glass: rgba(255, 255, 255, 0.06);
+        --accent-a: #7c3aed; /* purple */
+        --accent-b: #06b6d4; /* teal */
+        --muted: #b6c2ce;
+        --text: #eef6ff;
+      }
+      * {
+        box-sizing: border-box;
       }
       html,
       body {
@@ -18,53 +29,33 @@
       }
       body {
         margin: 0;
-        font-family: system-ui, -apple-system, Segoe UI, Roboto,
-          "Helvetica Neue", Arial;
-        background: linear-gradient(180deg, #071026 0%, #071827 60%);
+        font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
+          Arial;
         color: var(--text);
+        background: radial-gradient(
+            1200px 600px at 10% 10%,
+            rgba(124, 58, 237, 0.12),
+            transparent 8%
+          ),
+          radial-gradient(
+            900px 400px at 90% 90%,
+            rgba(6, 182, 212, 0.08),
+            transparent 6%
+          ),
+          linear-gradient(180deg, var(--bg-1), var(--bg-2));
         -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        padding: 36px 20px;
       }
-      .container {
-        max-width: 900px;
-        margin: 40px auto;
-        padding: 24px;
+      .wrap {
+        max-width: 1100px;
+        margin: 0 auto;
       }
-      header {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 16px;
-      }
-      .brand {
-        display: flex;
-        align-items: center;
-        gap: 12px;
-      }
-      .avatar {
-        width: 64px;
-        height: 64px;
-        border-radius: 8px;
-        background: linear-gradient(135deg, var(--accent), #7c3aed);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-weight: 700;
-        color: #021024;
-        box-shadow: 0 6px 18px rgba(2, 6, 23, 0.6);
-      }
-      h1 {
-        margin: 0;
-        font-size: 1.75rem;
-      }
-      p.lead {
-        margin: 6px 0 0;
-        color: var(--muted);
-      }
-      main {
-        margin-top: 28px;
+      .profile-card {
         display: grid;
-        grid-template-columns: 1fr;
-        gap: 18px;
+        grid-template-columns: 320px 1fr;
+        gap: 28px;
+        align-items: start;
       }
       .card {
         background: linear-gradient(
@@ -72,106 +63,219 @@
           rgba(255, 255, 255, 0.02),
           rgba(255, 255, 255, 0.01)
         );
-        padding: 18px;
-        border-radius: 12px;
-        box-shadow: 0 6px 18px rgba(2, 6, 23, 0.6);
+        border-radius: 16px;
+        padding: 20px;
+        box-shadow: 0 10px 30px rgba(2, 6, 23, 0.6);
+        backdrop-filter: blur(6px);
       }
-      h2 {
-        margin: 0 0 8px 0;
-        font-size: 1.1rem;
+      .left {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+      }
+      .avatar-wrap {
+        display: flex;
+        gap: 14px;
+        align-items: center;
+      }
+      .avatar {
+        width: 110px;
+        height: 110px;
+        border-radius: 50%;
+        overflow: hidden;
+        flex-shrink: 0;
+        background: linear-gradient(135deg, var(--accent-a), var(--accent-b));
+        display: grid;
+        place-items: center;
+        box-shadow: 0 12px 30px rgba(2, 6, 23, 0.6);
+      }
+      .avatar img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+      h1 {
+        margin: 0;
+        font-size: 1.5rem;
+      }
+      .handle {
+        color: var(--muted);
+        margin-top: 4px;
+      }
+      .badge {
+        display: inline-block;
+        padding: 6px 10px;
+        border-radius: 999px;
+        font-size: 12px;
+        background: linear-gradient(90deg, var(--accent-a), var(--accent-b));
+        color: #021024;
+        font-weight: 600;
       }
       .meta {
         color: var(--muted);
         font-size: 0.95rem;
-        margin-bottom: 8px;
+      }
+      .details {
+        margin-top: 8px;
+        color: var(--text);
+        line-height: 1.5;
+        font-size: 0.98rem;
+      }
+      aside .card small {
+        color: var(--muted);
+      }
+      .links {
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+      }
+      .btn {
+        background: var(--glass);
+        border-radius: 10px;
+        padding: 8px 12px;
+        color: var(--text);
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 14px;
+      }
+      .accent-btn {
+        background: linear-gradient(90deg, var(--accent-a), var(--accent-b));
+        color: #021024;
+      }
+
+      main {
+        margin-top: 26px;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 18px;
+      }
+      .section {
+        padding: 18px;
+        border-radius: 12px;
+        background: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.01),
+          rgba(255, 255, 255, 0.005)
+        );
+      }
+      .section h2 {
+        margin: 0 0 10px 0;
       }
       ul {
-        margin: 8px 0 0 20px;
-        color: var(--text);
+        margin: 8px 0 0 18px;
       }
+
       footer {
-        margin-top: 28px;
-        color: var(--muted);
-        font-size: 0.9rem;
+        margin-top: 26px;
         text-align: center;
+        color: var(--muted);
+        font-size: 13px;
       }
-      a.inline {
-        color: var(--accent);
-        text-decoration: none;
-      }
-      @media (min-width: 720px) {
-        main {
-          grid-template-columns: 1fr 320px;
+
+      @media (max-width: 880px) {
+        .profile-card {
+          grid-template-columns: 1fr;
+        }
+        .avatar {
+          width: 96px;
+          height: 96px;
         }
       }
     </style>
   </head>
   <body>
-    <div class="container">
-      <header>
-        <div class="brand">
-          <div class="avatar" aria-hidden="true">J</div>
-          <div>
-            <h1>Jamiu</h1>
-            <p class="lead">
-              Frontend Developer • Aspiring DevOps Engineer • Techcrush
-              participant
+    <div class="wrap">
+      <div class="profile-card">
+        <div class="card left">
+          <div class="avatar-wrap">
+            <div class="avatar" aria-hidden="false">
+              <!-- Replace the src below with your image URL. Example: https://example.com/your-photo.jpg -->
+              <img
+                src="REPLACE_WITH_YOUR_IMAGE_URL"
+                alt="Noibi Jamiu Gbolahan (OlaCloud)"
+                onerror="this.style.display='none'"
+              />
+            </div>
+            <div>
+              <h1>Noibi Jamiu Gbolahan</h1>
+              <div class="handle">also known as <strong>OlaCloud</strong></div>
+              <div style="margin-top: 10px">
+                <span class="badge">Frontend Dev</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="details">
+            <p>
+              <strong>About</strong> — I am a Frontend Developer and an aspiring
+              DevOps engineer. Currently studying Chemistry at the University of
+              Lagos (UNILAG). I joined Techcrush to learn cloud fundamentals and
+              apply them to my DevOps journey.
             </p>
+            <p class="meta">
+              <strong>Interests:</strong> web UI, deployments, CI/CD, cloud
+              basics, learning infrastructure as code.
+            </p>
+
+            <div class="links">
+              <a class="btn" href="#about">About</a>
+              <a class="btn accent-btn" href="#contact">Contact</a>
+            </div>
           </div>
         </div>
-        <div class="meta">Deploy target: Azure Static Web Apps</div>
-      </header>
 
-      <main>
-        <section class="card" aria-labelledby="about-heading">
-          <h2 id="about-heading">About Me</h2>
-          <p>
-            Hello — I'm Jamiu. I enjoy building simple, useful web pages and
-            learning modern web tooling. I participate in Techcrush to level up
-            my skills and gain hands-on experience creating real projects.
-          </p>
+        <div>
+          <div class="card section" id="about">
+            <h2>About Me</h2>
+            <p>
+              Hello — I'm <strong>Noibi (OlaCloud)</strong>. I enjoy building
+              clean, responsive frontends and learning the cloud fundamentals to
+              ship and operate applications reliably. Techcrush is helping me
+              gain practical cloud experience to support my DevOps goals.
+            </p>
 
-          <h2>Career</h2>
-          <p class="meta">Current focus</p>
-          <ul>
-            <li>front-end development (HTML, CSS, JavaScript and ReaactJS)</li>
-            <li>Exploring deployment and cloud basics</li>
-            <li>Building portfolio projects to showcase practical skills</li>
-          </ul>
+            <h3 style="margin-top: 12px">Current focus</h3>
+            <ul>
+              <li>Frontend development: HTML, CSS, JavaScript, React</li>
+              <li>Cloud basics and deployment workflows</li>
+              <li>CI/CD pipelines and infrastructure-as-code learning</li>
+            </ul>
+          </div>
 
-          <h2>What I'm studying with Techcrush</h2>
-          <p>
-            Through Techcrush I'm studying web development fundamentals,
-            responsive design, and how to deploy static sites. Techcrush
-            provided this website and the mentorship/resources to create and
-            publish it.
-          </p>
-        </section>
+          <div class="card section" style="margin-top: 14px" id="education">
+            <h2>Education</h2>
+            <p class="meta">University of Lagos (UNILAG)</p>
+            <p><strong>Course:</strong> Chemistry</p>
 
-        <aside class="card" aria-labelledby="school-heading">
-          <h2 id="school-heading">Education</h2>
-          <p class="meta">School & course</p>
-          <p><strong>School:</strong> [Your School Name]</p>
-          <p><strong>Course of study:</strong> [Your Course of Study]</p>
+            <h3 style="margin-top: 12px">This Site</h3>
+            <p>
+              This static page was built as part of Techcrush. Replace the
+              avatar `src` above with your hosted image URL to show your photo.
+              When you're ready I can help deploy this to Azure Static Web Apps
+              or Netlify.
+            </p>
+          </div>
 
-          <h2 style="margin-top: 16px">This site</h2>
-          <p class="meta">About this project</p>
-          <p>
-            This static page was created as part of my Techcrush work. I will
-            deploy it using Azure Static Web Apps for fast, secure hosting.
-          </p>
-
-          <h2 style="margin-top: 16px">Next steps</h2>
-          <ul>
-            <li>Replace placeholders (school & course) with your real info</li>
-            <li>Add a contact or portfolio section</li>
-            <li>Deploy to Azure Static Web Apps from a GitHub repo</li>
-          </ul>
-        </aside>
-      </main>
+          <div class="card section" id="contact" style="margin-top: 14px">
+            <h2>Contact & Next Steps</h2>
+            <p class="meta">What you can do next</p>
+            <ul>
+              <li>Provide your profile image URL so I can embed it.</li>
+              <li>
+                Add links to your GitHub or portfolio (I can add icons/buttons).
+              </li>
+              <li>
+                I can help deploy this site to Azure Static Web Apps when you
+                want.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
 
       <footer>
-        Built with support from Techcrush · Deployed with Azure Static Web Apps
+        Built with support from Techcrush · Ready for cloud deployment
       </footer>
     </div>
   </body>
