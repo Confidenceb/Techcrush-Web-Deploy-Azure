@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Jamiu — Personal Page</title>
+    <style>
+      :root {
+        --bg: #0f1724;
+        --card: #0b1220;
+        --accent: #06b6d4;
+        --muted: #9aa4b2;
+        --text: #e6eef6;
+      }
+      html,
+      body {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto,
+          "Helvetica Neue", Arial;
+        background: linear-gradient(180deg, #071026 0%, #071827 60%);
+        color: var(--text);
+        -webkit-font-smoothing: antialiased;
+      }
+      .container {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 24px;
+      }
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+      }
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+      .avatar {
+        width: 64px;
+        height: 64px;
+        border-radius: 8px;
+        background: linear-gradient(135deg, var(--accent), #7c3aed);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        color: #021024;
+        box-shadow: 0 6px 18px rgba(2, 6, 23, 0.6);
+      }
+      h1 {
+        margin: 0;
+        font-size: 1.75rem;
+      }
+      p.lead {
+        margin: 6px 0 0;
+        color: var(--muted);
+      }
+      main {
+        margin-top: 28px;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 18px;
+      }
+      .card {
+        background: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.02),
+          rgba(255, 255, 255, 0.01)
+        );
+        padding: 18px;
+        border-radius: 12px;
+        box-shadow: 0 6px 18px rgba(2, 6, 23, 0.6);
+      }
+      h2 {
+        margin: 0 0 8px 0;
+        font-size: 1.1rem;
+      }
+      .meta {
+        color: var(--muted);
+        font-size: 0.95rem;
+        margin-bottom: 8px;
+      }
+      ul {
+        margin: 8px 0 0 20px;
+        color: var(--text);
+      }
+      footer {
+        margin-top: 28px;
+        color: var(--muted);
+        font-size: 0.9rem;
+        text-align: center;
+      }
+      a.inline {
+        color: var(--accent);
+        text-decoration: none;
+      }
+      @media (min-width: 720px) {
+        main {
+          grid-template-columns: 1fr 320px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="brand">
+          <div class="avatar" aria-hidden="true">J</div>
+          <div>
+            <h1>Jamiu</h1>
+            <p class="lead">
+              Frontend Developer • Aspiring DevOps Engineer • Techcrush
+              participant
+            </p>
+          </div>
+        </div>
+        <div class="meta">Deploy target: Azure Static Web Apps</div>
+      </header>
+
+      <main>
+        <section class="card" aria-labelledby="about-heading">
+          <h2 id="about-heading">About Me</h2>
+          <p>
+            Hello — I'm Jamiu. I enjoy building simple, useful web pages and
+            learning modern web tooling. I participate in Techcrush to level up
+            my skills and gain hands-on experience creating real projects.
+          </p>
+
+          <h2>Career</h2>
+          <p class="meta">Current focus</p>
+          <ul>
+            <li>front-end development (HTML, CSS, JavaScript and ReaactJS)</li>
+            <li>Exploring deployment and cloud basics</li>
+            <li>Building portfolio projects to showcase practical skills</li>
+          </ul>
+
+          <h2>What I'm studying with Techcrush</h2>
+          <p>
+            Through Techcrush I'm studying web development fundamentals,
+            responsive design, and how to deploy static sites. Techcrush
+            provided this website and the mentorship/resources to create and
+            publish it.
+          </p>
+        </section>
+
+        <aside class="card" aria-labelledby="school-heading">
+          <h2 id="school-heading">Education</h2>
+          <p class="meta">School & course</p>
+          <p><strong>School:</strong> [Your School Name]</p>
+          <p><strong>Course of study:</strong> [Your Course of Study]</p>
+
+          <h2 style="margin-top: 16px">This site</h2>
+          <p class="meta">About this project</p>
+          <p>
+            This static page was created as part of my Techcrush work. I will
+            deploy it using Azure Static Web Apps for fast, secure hosting.
+          </p>
+
+          <h2 style="margin-top: 16px">Next steps</h2>
+          <ul>
+            <li>Replace placeholders (school & course) with your real info</li>
+            <li>Add a contact or portfolio section</li>
+            <li>Deploy to Azure Static Web Apps from a GitHub repo</li>
+          </ul>
+        </aside>
+      </main>
+
+      <footer>
+        Built with support from Techcrush · Deployed with Azure Static Web Apps
+      </footer>
+    </div>
+  </body>
+</html>
