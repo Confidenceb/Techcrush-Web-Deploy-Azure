@@ -1,0 +1,1516 @@
+{
+  "cities": [
+    {
+      "id": 1329,
+      "name": "Abule Egba (Agbado Ijaye Road)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 1811,
+      "name": "Abule Egba (Ajasa Command Rd)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 1336,
+      "name": "Abule Egba (Ajegunle)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 1324,
+      "name": "Abule Egba (Alagbado)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 1325,
+      "name": "Abule Egba (Alakuko)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 1322,
+      "name": "Abule Egba (Ekoro road)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 1327,
+      "name": "Abule Egba (Meiran Road)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 1326,
+      "name": "Abule Egba (New Oko Oba)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 1323,
+      "name": "Abule Egba (Old Otta Road)",
+      "latitude": 6.6414,
+      "longitude": 3.2932
+    },
+    {
+      "id": 2818,
+      "name": "Agbara",
+      "latitude": 6.5102,
+      "longitude": 3.0927
+    },
+    {
+      "id": 1320,
+      "name": "Agege (Dopemu)",
+      "latitude": 6.6077,
+      "longitude": 3.3105
+    },
+    {
+      "id": 1318,
+      "name": "Agege (Iju Road)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1316,
+      "name": "Agege (Old Abeokuta Road)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1317,
+      "name": "Agege (Orile Agege)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 22,
+      "name": "AGUNGI (LEKKI)",
+      "latitude": 6.442,
+      "longitude": 3.5167
+    },
+    {
+      "id": 1545,
+      "name": "Ajah (Abraham Adesanya)",
+      "latitude": 6.4725,
+      "longitude": 3.5686
+    },
+    {
+      "id": 26,
+      "name": "AJAO ESTATE",
+      "latitude": 6.5518,
+      "longitude": 3.324
+    },
+    {
+      "id": 1635,
+      "name": "AMUWO",
+      "latitude": 6.4293,
+      "longitude": 3.2684
+    },
+    {
+      "id": 44,
+      "name": "ANTHONY VILLAGE",
+      "latitude": 6.5633,
+      "longitude": 3.3674
+    },
+    {
+      "id": 1197,
+      "name": "Apapa (Ajegunle)",
+      "latitude": 6.45,
+      "longitude": 3.3667
+    },
+    {
+      "id": 1200,
+      "name": "Apapa (Amukoko)",
+      "latitude": 6.45,
+      "longitude": 3.3667
+    },
+    {
+      "id": 1202,
+      "name": "Apapa (GRA)",
+      "latitude": 6.45,
+      "longitude": 3.3667
+    },
+    {
+      "id": 1199,
+      "name": "Apapa (Kiri kiri)",
+      "latitude": 6.45,
+      "longitude": 3.3667
+    },
+    {
+      "id": 1201,
+      "name": "Apapa (Olodi)",
+      "latitude": 6.45,
+      "longitude": 3.3667
+    },
+    {
+      "id": 1198,
+      "name": "Apapa (Tincan)",
+      "latitude": 6.45,
+      "longitude": 3.3667
+    },
+    {
+      "id": 1203,
+      "name": "Apapa (Warf Rd)",
+      "latitude": 6.45,
+      "longitude": 3.3667
+    },
+    {
+      "id": 997,
+      "name": "AWOYAYA",
+      "latitude": 6.4769,
+      "longitude": 3.7039
+    },
+    {
+      "id": 2138,
+      "name": "Awoyaya-Container bustop",
+      "latitude": 6.4769,
+      "longitude": 3.7039
+    },
+    {
+      "id": 2140,
+      "name": "Awoyaya-Eputu",
+      "latitude": 6.4769,
+      "longitude": 3.7039
+    },
+    {
+      "id": 2137,
+      "name": "Awoyaya-Gbetu Iwerekun Road",
+      "latitude": 6.4769,
+      "longitude": 3.7039
+    },
+    {
+      "id": 2139,
+      "name": "Awoyaya-Mayfair Gardens",
+      "latitude": 6.4769,
+      "longitude": 3.7039
+    },
+    {
+      "id": 2142,
+      "name": "Awoyaya-Ologunfe",
+      "latitude": 6.4769,
+      "longitude": 3.7039
+    },
+    {
+      "id": 2141,
+      "name": "Awoyaya-Oribanwa",
+      "latitude": 6.4769,
+      "longitude": 3.7039
+    },
+    {
+      "id": 2813,
+      "name": "Badagry",
+      "latitude": 6.415,
+      "longitude": 2.8813
+    },
+    {
+      "id": 61,
+      "name": "BERGER",
+      "latitude": 6.63,
+      "longitude": 3.36
+    },
+    {
+      "id": 2148,
+      "name": "Bogije",
+      "latitude": 6.482,
+      "longitude": 3.712
+    },
+    {
+      "id": 1550,
+      "name": "Coker",
+      "latitude": 6.474,
+      "longitude": 3.331
+    },
+    {
+      "id": 3082,
+      "name": "Egbeda (Shasha)",
+      "latitude": 6.62,
+      "longitude": 3.31
+    },
+    {
+      "id": 1999,
+      "name": "Ejigbo-Bucknor",
+      "latitude": 6.55,
+      "longitude": 3.3
+    },
+    {
+      "id": 1997,
+      "name": "Ejigbo-Ile Epo",
+      "latitude": 6.55,
+      "longitude": 3.3
+    },
+    {
+      "id": 1996,
+      "name": "Ejigbo-Isheri Osun",
+      "latitude": 6.55,
+      "longitude": 3.3
+    },
+    {
+      "id": 1993,
+      "name": "Ejigbo-Jakande Wood Market",
+      "latitude": 6.55,
+      "longitude": 3.3
+    },
+    {
+      "id": 1990,
+      "name": "Ejigbo-NNPC Road",
+      "latitude": 6.55,
+      "longitude": 3.3
+    },
+    {
+      "id": 1992,
+      "name": "Ejigbo-Oke-Afa",
+      "latitude": 6.55,
+      "longitude": 3.3
+    },
+    {
+      "id": 1998,
+      "name": "Ejigbo-Pipeline",
+      "latitude": 6.55,
+      "longitude": 3.3
+    },
+    {
+      "id": 1995,
+      "name": "Ejigbo-Powerline",
+      "latitude": 6.55,
+      "longitude": 3.3
+    },
+    {
+      "id": 86,
+      "name": "EPE",
+      "latitude": 6.5844,
+      "longitude": 3.9839
+    },
+    {
+      "id": 3002,
+      "name": "Fagba (Iju Road)",
+      "latitude": 6.6442,
+      "longitude": 3.3249
+    },
+    {
+      "id": 1439,
+      "name": "FESTAC (1st Avenue)",
+      "latitude": 6.4697,
+      "longitude": 3.283
+    },
+    {
+      "id": 1440,
+      "name": "FESTAC (2nd Avenue)",
+      "latitude": 6.4697,
+      "longitude": 3.283
+    },
+    {
+      "id": 1441,
+      "name": "FESTAC (3rd Avenue)",
+      "latitude": 6.4697,
+      "longitude": 3.283
+    },
+    {
+      "id": 1443,
+      "name": "FESTAC (5th Avenue)",
+      "latitude": 6.4697,
+      "longitude": 3.283
+    },
+    {
+      "id": 1445,
+      "name": "FESTAC (7th Avenue)",
+      "latitude": 6.4697,
+      "longitude": 3.283
+    },
+    {
+      "id": 1953,
+      "name": "Gbagada- Ifako",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 1948,
+      "name": "Gbagada-Deeper Life",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 1957,
+      "name": "Gbagada-Expressway",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 1950,
+      "name": "Gbagada-L&K",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 1955,
+      "name": "Gbagada-New Garage",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 1949,
+      "name": "Gbagada-Olopomeji",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 1954,
+      "name": "Gbagada-Pedro",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 1956,
+      "name": "Gbagada-Sawmill",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 1952,
+      "name": "Gbagada-Sholuyi",
+      "latitude": 6.55,
+      "longitude": 3.39
+    },
+    {
+      "id": 3021,
+      "name": "Ibeju-Lekki Dangote Refinery",
+      "latitude": 6.4314,
+      "longitude": 4.0055
+    },
+    {
+      "id": 3040,
+      "name": "Ibeju-Lekki Eleko Junction",
+      "latitude": 6.45,
+      "longitude": 3.95
+    },
+    {
+      "id": 3041,
+      "name": "Ibeju-Lekki Pan African University",
+      "latitude": 6.45,
+      "longitude": 3.95
+    },
+    {
+      "id": 111,
+      "name": "IDIMU",
+      "latitude": 6.57,
+      "longitude": 3.3
+    },
+    {
+      "id": 114,
+      "name": "IGANDO",
+      "latitude": 6.55,
+      "longitude": 3.25
+    },
+    {
+      "id": 121,
+      "name": "IJANIKIN",
+      "latitude": 6.4967,
+      "longitude": 3.1208
+    },
+    {
+      "id": 125,
+      "name": "IJEGUN IKOTUN",
+      "latitude": 6.5443,
+      "longitude": 3.2638
+    },
+    {
+      "id": 126,
+      "name": "IJORA",
+      "latitude": 6.45,
+      "longitude": 3.38
+    },
+    {
+      "id": 1177,
+      "name": "Ikeja (ADENIYI JONES)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1176,
+      "name": "Ikeja (ALAUSA)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1175,
+      "name": "Ikeja (ALLEN AVENUE)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1205,
+      "name": "Ikeja (computer village)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1178,
+      "name": "Ikeja (GRA)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1822,
+      "name": "IKEJA (M M Airport)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1184,
+      "name": "Ikeja (MANGORO)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1182,
+      "name": "Ikeja (OBA-AKRAN)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1181,
+      "name": "Ikeja (OPEBI)",
+      "latitude": 6.6,
+      "longitude": 3.35
+    },
+    {
+      "id": 1351,
+      "name": "IKORODU (Adamo)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1343,
+      "name": "IKORODU (Agbede)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2404,
+      "name": "IKORODU (Agric)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1340,
+      "name": "IKORODU (Bayeku)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1342,
+      "name": "IKORODU (Eyita)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1345,
+      "name": "IKORODU (Gberigbe)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2405,
+      "name": "IKORODU (Ijede)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1350,
+      "name": "IKORODU (Imota)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1344,
+      "name": "IKORODU (Ita oluwo)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1347,
+      "name": "IKORODU (Itamaga)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1341,
+      "name": "IKORODU (Offin)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1339,
+      "name": "IKORODU (Owode-Ibese)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2112,
+      "name": "Ikorodu Road-Irawo",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2111,
+      "name": "Ikorodu Road-Owode Onirin",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1346,
+      "name": "IKORODU(Elepe)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1349,
+      "name": "IKORODU(Laspotech)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1352,
+      "name": "Ikorodu(Ogolonto)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 1348,
+      "name": "IKORODU(Sabo)",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2117,
+      "name": "Ikorodu-Agufoye",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2109,
+      "name": "Ikorodu-Benson",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2122,
+      "name": "Ikorodu-Garage",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2121,
+      "name": "Ikorodu-Odokekere",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2120,
+      "name": "Ikorodu-Odonla",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 2119,
+      "name": "Ikorodu-Ogijo",
+      "latitude": 6.617,
+      "longitude": 3.5
+    },
+    {
+      "id": 993,
+      "name": "IKOTA",
+      "latitude": 6.45,
+      "longitude": 3.6
+    },
+    {
+      "id": 137,
+      "name": "IKOTUN",
+      "latitude": 6.5443,
+      "longitude": 3.2638
+    },
+    {
+      "id": 1225,
+      "name": "Ikoyi (Awolowo Road)",
+      "latitude": 6.4525,
+      "longitude": 3.4358
+    },
+    {
+      "id": 1228,
+      "name": "Ikoyi (Bourdillon)",
+      "latitude": 6.4525,
+      "longitude": 3.4358
+    },
+    {
+      "id": 1243,
+      "name": "Ikoyi (Dolphin)",
+      "latitude": 6.4525,
+      "longitude": 3.4358
+    },
+    {
+      "id": 1230,
+      "name": "Ikoyi (Glover road)",
+      "latitude": 6.4525,
+      "longitude": 3.4358
+    },
+    {
+      "id": 1227,
+      "name": "Ikoyi (Keffi)",
+      "latitude": 6.4525,
+      "longitude": 3.4358
+    },
+    {
+      "id": 1226,
+      "name": "Ikoyi (Kings way road)",
+      "latitude": 6.4525,
+      "longitude": 3.4358
+    },
+    {
+      "id": 1241,
+      "name": "Ikoyi (Obalende)",
+      "latitude": 6.4525,
+      "longitude": 3.4358
+    },
+    {
+      "id": 3077,
+      "name": "Ikoyi-Parkview",
+      "latitude": 6.4525,
+      "longitude": 3.4358
+    },
+    {
+      "id": 1586,
+      "name": "ILAJE (BARIGA)",
+      "latitude": 6.5,
+      "longitude": 3.38
+    },
+    {
+      "id": 147,
+      "name": "ILUPEJU (Lagos)",
+      "latitude": 6.5333,
+      "longitude": 3.35
+    },
+    {
+      "id": 941,
+      "name": "ISHERI IKOTUN",
+      "latitude": 6.5443,
+      "longitude": 3.2638
+    },
+    {
+      "id": 153,
+      "name": "ISHERI MAGODO",
+      "latitude": 6.57,
+      "longitude": 3.35
+    },
+    {
+      "id": 155,
+      "name": "ISOLO",
+      "latitude": 6.555,
+      "longitude": 3.3436
+    },
+    {
+      "id": 3083,
+      "name": "Isolo - Laspotech",
+      "latitude": 6.555,
+      "longitude": 3.3436
+    },
+    {
+      "id": 162,
+      "name": "IYANA IBA",
+      "latitude": 6.47,
+      "longitude": 3.25
+    },
+    {
+      "id": 1334,
+      "name": "Iyana Ipaja (Abesan)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 2993,
+      "name": "Iyana Ipaja (Aboru)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1593,
+      "name": "Iyana Ipaja (Ayobo Road)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1330,
+      "name": "Iyana Ipaja (Command Road)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1332,
+      "name": "Iyana Ipaja (Egbeda)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1331,
+      "name": "Iyana Ipaja (Ikola Road)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1333,
+      "name": "Iyana Ipaja (Iyana Ipaja Road)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1335,
+      "name": "Iyana Ipaja (Shasha)",
+      "latitude": 6.6199,
+      "longitude": 3.3369
+    },
+    {
+      "id": 1627,
+      "name": "JAKANDE (LEKKI)",
+      "latitude": 6.46,
+      "longitude": 3.58
+    },
+    {
+      "id": 1589,
+      "name": "JANKANDE (ISOLO)",
+      "latitude": 6.555,
+      "longitude": 3.3436
+    },
+    {
+      "id": 2231,
+      "name": "Ketu-Alapere",
+      "latitude": 6.5962,
+      "longitude": 3.3918
+    },
+    {
+      "id": 2230,
+      "name": "Ketu-CMD road",
+      "latitude": 6.5962,
+      "longitude": 3.3918
+    },
+    {
+      "id": 2235,
+      "name": "Ketu-Demurin",
+      "latitude": 6.5962,
+      "longitude": 3.3918
+    },
+    {
+      "id": 2228,
+      "name": "Ketu-Ikosi Road",
+      "latitude": 6.5962,
+      "longitude": 3.3918
+    },
+    {
+      "id": 2229,
+      "name": "Ketu-Iyana School",
+      "latitude": 6.5962,
+      "longitude": 3.3918
+    },
+    {
+      "id": 1238,
+      "name": "Lagos Island (Adeniji)",
+      "latitude": 6.46,
+      "longitude": 3.39
+    },
+    {
+      "id": 1237,
+      "name": "Lagos Island (Marina)",
+      "latitude": 6.46,
+      "longitude": 3.39
+    },
+    {
+      "id": 1239,
+      "name": "Lagos Island (Onikan)",
+      "latitude": 6.46,
+      "longitude": 3.39
+    },
+    {
+      "id": 1240,
+      "name": "Lagos Island (Sura)",
+      "latitude": 6.46,
+      "longitude": 3.39
+    },
+    {
+      "id": 1242,
+      "name": "Lagos Island (TBS)",
+      "latitude": 6.46,
+      "longitude": 3.39
+    },
+    {
+      "id": 2145,
+      "name": "Lakowe-Adeba Road",
+      "latitude": 6.474,
+      "longitude": 3.7326
+    },
+    {
+      "id": 2144,
+      "name": "Lakowe-Golf",
+      "latitude": 6.474,
+      "longitude": 3.7326
+    },
+    {
+      "id": 2146,
+      "name": "Lakowe-Kajola",
+      "latitude": 6.474,
+      "longitude": 3.7326
+    },
+    {
+      "id": 2143,
+      "name": "Lakowe-School Gate",
+      "latitude": 6.474,
+      "longitude": 3.7326
+    },
+    {
+      "id": 1655,
+      "name": "LEKKI -VGC",
+      "latitude": 6.46,
+      "longitude": 3.54
+    },
+    {
+      "id": 1824,
+      "name": "Lekki 1 (Bishop Durosimi)",
+      "latitude": 6.46,
+      "longitude": 3.54
+    },
+    {
+      "id": 1825,
+      "name": "Lekki 1 (F.T Kuboye street)",
+      "latitude": 6.46,
+      "longitude": 3.54
+    },
+    {
+      "id": 1826,
+      "name": "Lekki 1 (Omorinre Johnson)",
+      "latitude": 6.46,
+      "longitude": 3.54
+    },
+    {
+      "id": 1234,
+      "name": "Lekki Phase 1 (Admiralty Road)",
+      "latitude": 6.46,
+      "longitude": 3.54
+    },
+    {
+      "id": 1231,
+      "name": "Lekki Phase 1 (Admiralty way)",
+      "latitude": 6.46,
+      "longitude": 3.54
+    },
+    {
+      "id": 1232,
+      "name": "Lekki Phase 1 (Fola Osibo)",
+      "latitude": 6.46,
+      "longitude": 3.54
+    },
+    {
+      "id": 1638,
+      "name": "LEKKI-AGUNGI",
+      "latitude": 6.442,
+      "longitude": 3.5167
+    },
+    {
+      "id": 1658,
+      "name": "LEKKI-AJAH (ABIJO)",
+      "latitude": 6.4683,
+      "longitude": 3.5859
+    },
+    {
+      "id": 1647,
+      "name": "LEKKI-AJAH (ADDO ROAD)",
+      "latitude": 6.4683,
+      "longitude": 3.5859
+    },
+    {
+      "id": 1649,
+      "name": "LEKKI-AJAH (BADORE)",
+      "latitude": 6.4683,
+      "longitude": 3.5859
+    },
+    {
+      "id": 1650,
+      "name": "LEKKI-AJAH (ILAJE)",
+      "latitude": 6.4683,
+      "longitude": 3.5859
+    },
+    {
+      "id": 1651,
+      "name": "LEKKI-AJAH (ILASAN)",
+      "latitude": 6.4683,
+      "longitude": 3.5859
+    },
+    {
+      "id": 1652,
+      "name": "LEKKI-AJAH (JAKANDE)",
+      "latitude": 6.4683,
+      "longitude": 3.5859
+    },
+    {
+      "id": 1656,
+      "name": "LEKKI-AJAH (SANGOTEDO)",
+      "latitude": 6.4683,
+      "longitude": 3.5859
+    },
+    {
+      "id": 1961,
+      "name": "Lekki-Chisco",
+      "latitude": 6.46,
+      "longitude": 3.54
+    },
+    {
+      "id": 1639,
+      "name": "LEKKI-ELF",
+      "latitude": 6.44,
+      "longitude": 3.43
+    },
+    {
+      "id": 1640,
+      "name": "LEKKI-IGBOEFON",
+      "latitude": 6.4387,
+      "longitude": 3.5229
+    },
+    {
+      "id": 1641,
+      "name": "LEKKI-IKATE ELEGUSHI",
+      "latitude": 6.4398,
+      "longitude": 3.489
+    },
+    {
+      "id": 1642,
+      "name": "LEKKI-MARUWA",
+      "latitude": 6.44,
+      "longitude": 3.43
+    },
+    {
+      "id": 1643,
+      "name": "LEKKI-ONIRU ESTATE",
+      "latitude": 6.44,
+      "longitude": 3.43
+    },
+    {
+      "id": 1644,
+      "name": "LEKKI-OSAPA LONDON",
+      "latitude": 6.4419,
+      "longitude": 3.5134
+    },
+    {
+      "id": 2994,
+      "name": "Magboro",
+      "latitude": 6.7189,
+      "longitude": 3.4019
+    },
+    {
+      "id": 200,
+      "name": "MAGODO",
+      "latitude": 6.58,
+      "longitude": 3.38
+    },
+    {
+      "id": 1592,
+      "name": "MARYLAND (MENDE)",
+      "latitude": 6.576,
+      "longitude": 3.38
+    },
+    {
+      "id": 1591,
+      "name": "MARYLAND (ONIGBONGBO)",
+      "latitude": 6.58,
+      "longitude": 3.37
+    },
+    {
+      "id": 210,
+      "name": "MILE 12",
+      "latitude": 6.6063,
+      "longitude": 3.3954
+    },
+    {
+      "id": 2113,
+      "name": "Mile 12 -Ajelogo",
+      "latitude": 6.6063,
+      "longitude": 3.3954
+    },
+    {
+      "id": 211,
+      "name": "MILE 2",
+      "latitude": 6.4,
+      "longitude": 3.35
+    },
+    {
+      "id": 2041,
+      "name": "Mushin -Palm Avenue",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2038,
+      "name": "Mushin-Agege Motor Road",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2033,
+      "name": "Mushin-Daleko Market",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2043,
+      "name": "Mushin-Fatai Atere",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2035,
+      "name": "Mushin-Idi Oro",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2039,
+      "name": "Mushin-Idi-Araba",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2040,
+      "name": "Mushin-Ilasamaja Road",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2034,
+      "name": "Mushin-Ladipo Road",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2036,
+      "name": "Mushin-Olateju",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 2042,
+      "name": "Mushin-Papa Ajao",
+      "latitude": 6.528,
+      "longitude": 3.354
+    },
+    {
+      "id": 1877,
+      "name": "Ogba- Akilo Road",
+      "latitude": 6.63,
+      "longitude": 3.34
+    },
+    {
+      "id": 1876,
+      "name": "Ogba- College Road",
+      "latitude": 6.63,
+      "longitude": 3.34
+    },
+    {
+      "id": 1873,
+      "name": "Ogba-Acme Road",
+      "latitude": 6.63,
+      "longitude": 3.34
+    },
+    {
+      "id": 1868,
+      "name": "Ogba-Aguda",
+      "latitude": 6.63,
+      "longitude": 3.34
+    },
+    {
+      "id": 1874,
+      "name": "Ogba-Obawole",
+      "latitude": 6.63,
+      "longitude": 3.34
+    },
+    {
+      "id": 1879,
+      "name": "Ogba-Ojodu",
+      "latitude": 6.63,
+      "longitude": 3.34
+    },
+    {
+      "id": 1872,
+      "name": "Ogba-Oke Ira",
+      "latitude": 6.63,
+      "longitude": 3.34
+    },
+    {
+      "id": 1869,
+      "name": "Ogba-Wemco Road",
+      "latitude": 6.63,
+      "longitude": 3.34
+    },
+    {
+      "id": 237,
+      "name": "OGUDU",
+      "latitude": 6.575,
+      "longitude": 3.3905
+    },
+    {
+      "id": 2775,
+      "name": "Ojo-Ajangbadi",
+      "latitude": 6.4667,
+      "longitude": 3.1833
+    },
+    {
+      "id": 2318,
+      "name": "Ojo-Alaba International",
+      "latitude": 6.4667,
+      "longitude": 3.1833
+    },
+    {
+      "id": 2332,
+      "name": "Ojo-Alakija",
+      "latitude": 6.4667,
+      "longitude": 3.1833
+    },
+    {
+      "id": 2324,
+      "name": "Ojo-Ojo Barracks",
+      "latitude": 6.4667,
+      "longitude": 3.1833
+    },
+    {
+      "id": 2335,
+      "name": "Ojo-Okokomaiko",
+      "latitude": 6.4667,
+      "longitude": 3.1833
+    },
+    {
+      "id": 2322,
+      "name": "Ojo-PPL",
+      "latitude": 6.4667,
+      "longitude": 3.1833
+    },
+    {
+      "id": 2325,
+      "name": "Ojo-Trade Fair",
+      "latitude": 6.4667,
+      "longitude": 3.1833
+    },
+    {
+      "id": 242,
+      "name": "OJODU",
+      "latitude": 6.63,
+      "longitude": 3.35
+    },
+    {
+      "id": 243,
+      "name": "OJOKORO",
+      "latitude": 6.6797,
+      "longitude": 3.2835
+    },
+    {
+      "id": 244,
+      "name": "OJOTA",
+      "latitude": 6.58,
+      "longitude": 3.38
+    },
+    {
+      "id": 248,
+      "name": "OKOKOMAIKO",
+      "latitude": 6.46,
+      "longitude": 3.18
+    },
+    {
+      "id": 249,
+      "name": "OKOTA",
+      "latitude": 6.5088,
+      "longitude": 3.3137
+    },
+    {
+      "id": 1185,
+      "name": "Omole Phase 1",
+      "latitude": 6.6167,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1186,
+      "name": "Omole Phase 2",
+      "latitude": 6.6167,
+      "longitude": 3.3833
+    },
+    {
+      "id": 2795,
+      "name": "Oniru",
+      "latitude": 6.44,
+      "longitude": 3.43
+    },
+    {
+      "id": 259,
+      "name": "OREGUN",
+      "latitude": 6.61,
+      "longitude": 3.36
+    },
+    {
+      "id": 260,
+      "name": "ORILE",
+      "latitude": 6.47,
+      "longitude": 3.37
+    },
+    {
+      "id": 264,
+      "name": "OSAPA (LEKKI)",
+      "latitude": 6.4419,
+      "longitude": 3.5134
+    },
+    {
+      "id": 1570,
+      "name": "OSHODI-BOLADE",
+      "latitude": 6.55,
+      "longitude": 3.4
+    },
+    {
+      "id": 1561,
+      "name": "OSHODI-ISOLO",
+      "latitude": 6.55,
+      "longitude": 3.4
+    },
+    {
+      "id": 265,
+      "name": "OSHODI-MAFOLUKU",
+      "latitude": 6.55,
+      "longitude": 3.4
+    },
+    {
+      "id": 1560,
+      "name": "OSHODI-SHOGUNLE",
+      "latitude": 6.55,
+      "longitude": 3.4
+    },
+    {
+      "id": 2439,
+      "name": "Satelite-Town",
+      "latitude": 6.44,
+      "longitude": 3.26
+    },
+    {
+      "id": 293,
+      "name": "SOMOLU",
+      "latitude": 6.53,
+      "longitude": 3.37
+    },
+    {
+      "id": 1207,
+      "name": "Surulere (Adeniran Ogunsanya)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1187,
+      "name": "Surulere (Aguda)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1194,
+      "name": "Surulere (Bode Thomas)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1196,
+      "name": "Surulere (Idi Araba)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1193,
+      "name": "Surulere (Ijesha)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1195,
+      "name": "Surulere (Iponri)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1191,
+      "name": "Surulere (Itire)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1190,
+      "name": "Surulere (Lawanson)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1188,
+      "name": "Surulere (Masha)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1192,
+      "name": "Surulere (Ogunlana drive)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1189,
+      "name": "Surulere (Ojuelegba)",
+      "latitude": 6.4833,
+      "longitude": 3.3833
+    },
+    {
+      "id": 1831,
+      "name": "VI (Adetokunbo Ademola)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 1832,
+      "name": "VI (Ahmed Bello way)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 1962,
+      "name": "VI (Bishop Aboyade Cole)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 3076,
+      "name": "VI (Oniru Road)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 1833,
+      "name": "VI(Ajose Adeogun)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 1834,
+      "name": "VI(Akin Adeshola)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 1835,
+      "name": "VI(Bishop Oluwale)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 1220,
+      "name": "Victoria Island (Adeola Odeku)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 1223,
+      "name": "Victoria Island (Kofo Abayomi)",
+      "latitude": 6.43,
+      "longitude": 3.41
+    },
+    {
+      "id": 1892,
+      "name": "Yaba- Abule Ijesha",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1891,
+      "name": "Yaba- Fadeyi",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1899,
+      "name": "Yaba-(Sabo)",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1898,
+      "name": "Yaba-(Unilag)",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1882,
+      "name": "Yaba-Abule Oja",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1888,
+      "name": "Yaba-Adekunle",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1895,
+      "name": "Yaba-Akoka",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1887,
+      "name": "Yaba-Alagomeju",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1881,
+      "name": "Yaba-Folagoro",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1893,
+      "name": "Yaba-Herbert Macaulay Way",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1894,
+      "name": "Yaba-Jibowu",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1880,
+      "name": "Yaba-Onike Iwaya",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1890,
+      "name": "Yaba-Oyingbo",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1889,
+      "name": "Yaba-Tejuosho",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1885,
+      "name": "Yaba-University Road",
+      "latitude": 6.51,
+      "longitude": 3.38
+    },
+    {
+      "id": 1884,
+      "name": "Yaba-Yabatech",
+      "latitude": 6.51,
+      "longitude": 3.38
+    }
+  ]
+}
